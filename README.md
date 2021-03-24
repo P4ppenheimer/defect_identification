@@ -1,3 +1,3 @@
 # defect_identification
 
-Repo for working with google colab
+This has to be added
