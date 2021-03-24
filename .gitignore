@@ -12,7 +12,7 @@ severstal-steel-defect-detection.zip
 /Kurzvorstellung
 /env
 
-/unet_model/
+# /unet_model/
 
 # /model/.DS_Store
 /model/
