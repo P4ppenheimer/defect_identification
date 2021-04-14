@@ -1,6 +1,7 @@
 /.DS_Store
 .ipynb_checkpoints/
 severstal-steel-defect-detection.zip
+
 /input/test_images/
 /wandb
 /.vscode
@@ -23,4 +24,3 @@ input/*
 
 input/train_images/*
 !input/train_images/051f0d825.jpg
-

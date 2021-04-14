@@ -1,7 +1,6 @@
 # general stuff
 import pandas as pd
 import os 
-from matplotlib import pyplot as plt
 
 # torch stuff
 import torch
